@@ -1,4 +1,3 @@
-#Modification on decision tree file
 library(tidyverse) #data manipulation
 library(caret) #ML workflow
 library(rpart) #decision tree models
